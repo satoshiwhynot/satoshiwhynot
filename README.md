@@ -1,6 +1,4 @@
-# satoshi 001
-
-### Practical AI for solo creators.
+![Satoshi 001 — Practical AI for solo creators](assets/satoshi-banner.png)
 
 I turn AI workflows into visual guides, useful prompts and project templates.
 This is where I share the working material behind my posts on [X](https://x.com/satoshiwhynot).
